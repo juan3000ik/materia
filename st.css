@@ -1,0 +1,121 @@
+.mimenu{
+
+    width:200%;
+    background-color: #5f44c2;
+    list-style: none;
+    
+    margin: 0;
+    
+    padding: 20px;
+    border: 2px solid  rgb(77, 148, 153);
+    
+    }
+    .mimenu li {
+        display:inline-block;
+        margin-left: 50px;
+    }
+    .mimenu li a{
+        display: inline-none;
+        color:#fcfcfc;
+    
+    }
+    .mimenu li {
+        background: #96aef07a;
+       color:#ffffff;
+    }
+   .aa{
+width: 900;
+height:400 ;
+background-color: #8ecae6;
+position: relative;
+top: 5;
+left:0;
+   }
+   .bb{
+    width: 900;
+    height:400 ;
+    background-color: #8ecae6;
+    position: relative;
+    top: 30;
+    left:0;
+       }
+       .cc{
+        width: 900;
+        height:400 ;
+        background-color: #8ecae6;
+        position: relative;
+        top: 60;
+        left:0;
+           }
+           .dd{
+            width: 900;
+            height:400 ;
+            background-color: #8ecae6;
+            position: relative;
+            top: 90;
+            left:0;
+               }
+               .ee{
+                width: 900;
+                height:400 ;
+                background-color: #8ecae6;
+                position: relative;
+                top: 120;
+                left:0;
+                   }
+                   .ff{
+                     width: 300;
+                     height:400 ;
+                     background-color: #8ecae6;
+                     position: relative;
+                     top: -1995;
+                     left:930;
+                        }
+                        .gg{
+                           width: 300;
+                           height:400 ;
+                           background-color: #023047;
+                           position: relative;
+                           top: -1970;
+                           left:930;
+                              }
+                              .hh{
+                                 width: 300;
+                                 height:400 ;
+                                 background-color: #023047;
+                                 position: relative;
+                                 top: -1940;
+                                 left:930;
+                                    }
+                                    .ii{
+                                       width: 300;
+                                       height:400 ;
+                                       background-color: #023047;
+                                       position: relative;
+                                       top: -1910;
+                                       left:930;
+                                          }
+                                          .jj{
+                                             width: 300;
+                                             height:170 ;
+                                             background-color: #023047;
+                                             position: relative;
+                                             top: -1880;
+                                             left:930;
+                                                }
+                                                .ttt{
+                                                   width: 900;
+                                                   height:1000 ;
+                                                   background-color: #023047;
+                                                   position: relative;
+                                                   top: 20;
+                                                   left:200;
+                                                      }
+                                                      .lll{
+                                                         width: 850;
+                                                         height:990 ;
+                                                         background-color: #0a71a5;
+                                                         position: relative;
+                                                         top: -950;
+                                                         left:225;
+                                                            }
